@@ -129,7 +129,7 @@ const day1Destinations = [
     title: "Pasar Prawirotaman",
     description:
     "Perjalanan ke Pasar Prawirotaman dari Pictniq (16,8 km/33 menit), di Pasar Prawirotaman kita Eksplor toko batik, suvenir, kerajinan, Makan sore di area Prawirotaman 1 jam",
-    image: "/assets/Jogja Heritage 2.avif",
+    image: "/assets/Pasar prawirotaman.avif",
     location: "Jl. Parangtritis No.103, Brontokusuman, Kec. Mergangsan, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55153",
     googleMapsUrl: "https://maps.app.goo.gl/ysFEtqsmBeS3iMwT7",
     rating: 4.7,
